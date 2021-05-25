@@ -1,0 +1,1 @@
+# Thermal-Screening-using-OpenCV
